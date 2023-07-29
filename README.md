@@ -1,8 +1,32 @@
-# React + Vite
+<h1 align="center"> Serene Beauty Shop 🌿</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<!--   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
+</p>
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- React
+- Sass
+- Git e Github
+- Figma
+- Chakra API
+
+## ✨ Projeto
+
+Serene Beauty Shop é um projeto criado apenas para testes de habilidades pessoais, sem fins lucrativos.
+Design feito por <i>TemplatesJungle.</i>
+
+- [Visite o projeto online](https://belraposo.github.io/nlw-setup/)
+
+## 📲 Layout
+
+Você pode visualizar o layout do projeto [clicando aqui](https://templatesjungle.com/downloads/serene-free-beauty-shop-landing-page-figma-design-template/)!
