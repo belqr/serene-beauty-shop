@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Serene Beauty Shop é um projeto criado apenas para testes de habilidades pessoais, sem fins lucrativos.
 Design feito por <i>TemplatesJungle.</i>
 
-- [Visite o projeto online](https://belraposo.github.io/nlw-setup/)
+- [Visite o projeto online]()
 
 ## 📲 Layout
 
